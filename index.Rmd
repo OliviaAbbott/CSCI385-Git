@@ -1,0 +1,7 @@
+---
+title: "Olivia Abbott's Landing Page"
+output:
+  html_document:
+    df_print: paged
+---
+
